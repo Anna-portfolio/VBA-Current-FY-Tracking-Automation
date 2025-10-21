@@ -1,6 +1,7 @@
 # VBA-Current-FY-Tracking-Automation
 VBA tool automating the collection and formatting of SAP financial data for the current fiscal year. <br>Activated via a "Run Automation" button, it connects to SAP and pastes data into the "data" sheet based on specific reports and formats:<br><br>
 
+
 FS10N (Cash Out GL): Data to L2, light yellow background, category formula in column R.<br>
 S_ALR_87012103 (Cash Out Vendor): Data to first empty cell in column L, category formula in R.<br>
 FS10N (Cash In GL): Data to D2, light yellow background, category formula in J.<br>
